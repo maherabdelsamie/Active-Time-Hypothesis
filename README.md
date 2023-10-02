@@ -3,6 +3,20 @@
 Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
 
+## Abstract
+
+**Background**: Time, traditionally viewed as a passive backdrop against which events unfold, finds a transformative interpretation in the Active Time Hypothesis (ATH), positioning it as an active agent in the cosmos with properties of being generative, directive, and adaptive. 
+
+**Objectives**: This research seeks to explore the implications of the ATH, contrasting it with conventional conceptions of time, and examining its repercussions in both philosophical and physical realms.
+
+**Methods**: Utilizing a dual-layered approach, the study employed classical and quantum simulations. The classical simulation modeled the evolution of a physical quantity $`\Phi`$ under the influence of active time's properties. The quantum simulation focused on the evolution of entangled qutrit systems, gauging the effect of active time on quantum dynamics and entanglement.
+
+**Results**: The classical simulation revealed an unpredictable and fluctuating nature of $`\Phi(t)`$, influenced by time's generative property. The quantum simulation demonstrated varying degrees of entanglement entropy, suggesting the potential of the ATH to modify quantum correlations.
+
+**Conclusions**: The ATH challenges traditional perspectives, proposing time as a dynamic entity actively influencing events. The interplay between classical stochasticity and quantum entanglement raises profound questions about causality, determinism, and the very nature of reality. The ATH introduces the possibility that quantum non-locality may arise from time's intrinsic non-local agency rather than spatial connections.
+
+
+
 ## 1. Introduction
 
 Throughout human history, our understanding and interpretation of time have been shaped by a confluence of philosophy, religion, and, more recently, physics. Historically, the dominant perspective has been that time serves as a passive backdrop against which events unfold, acting merely as a parameter in the equations of motion.
@@ -327,6 +341,17 @@ The juxtaposition of these plots underscores the integrative nature of the simul
 ![Plot1](https://github.com/maherabdelsamie/Active-Time-Hypothesis/assets/73538221/737b0747-e136-4f43-a199-1826e7f22cad)
 
 ---
+
+## Conclusion:
+
+In this study, we ventured into the uncharted territory of the Active Time Hypothesis (ATH), a perspective that positions time not as a passive observer, but an active participant influencing the cosmos. Our dual-simulation approach, bridging classical and quantum realms, illuminated the profound implications of such a temporal agency.
+
+The classical simulations showcased the unpredictable nature of phenomena influenced by time's generative property. This spontaneity, combined with the directive and adaptive properties, challenges our conventional understanding of causality, determinism, and linear temporal flow.
+
+On the quantum frontier, the entanglement entropy dynamics revealed potential modifications to quantum correlations under the ATH. This raises intriguing questions: Could quantum non-locality be a manifestation of time's inherent non-local agency rather than spatial connections? Could time itself, with its generative and directive capabilities, be the orchestrator of quantum entanglements?
+
+---
+
  # Installation
 The simulation is implemented in Python and requires the following libraries:
 - numpy
