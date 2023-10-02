@@ -164,7 +164,7 @@ The simulation tracks the evolution of a quantum system (specifically, two qutri
 
 ## 5. Connecting Theory to Simulation Code
 
-#### a. Theoretical foundations and their code representation:
+#### 5.1 Theoretical foundations and their code representation:
 
 **Temporal Agency**:
 
@@ -178,7 +178,7 @@ Traditional views of time suggest a linear progression of cause and effect. Howe
 
 While humans perceive time linearly, the ATH introduces the intriguing idea that time might adapt based on the state of the universe. This adaptive nature of time is encapsulated in the `A_func(Phi)` function, which modulates the flow of active time $`\tau`$ based on the universe's state $`\Phi`$. This function, by amplifying or dampening the flow of time, suggests that our linear perception might just be an averaged-out experience of deeper, more intricate temporal dynamics.
 
-#### b. Mathematical formulation and its translation to code:
+#### 5.2 Mathematical formulation and its translation to code:
 
 The code representation is deeply intertwined with the theoretical underpinnings of the ATH. The core equations of the hypothesis are:
 
@@ -212,11 +212,9 @@ is a computational representation of these continuous equations, enabling the st
 
 ## 6. Detailed Analysis of the Simulation Code
 
-#### a. Overview of the Simulation
-
 The simulation serves as a computational framework to explore the theoretical constructs of the Active Time Hypothesis (ATH). By integrating classical and quantum simulations, the code seeks to provide insights into the potential behaviors and implications of a universe influenced by active time.
 
-#### b. Classical Simulation Detailed Analysis
+#### 6.1 Classical Simulation Detailed Analysis
 
 - Generative Property $`S(t)`$:
 
@@ -270,7 +268,7 @@ for i in range(n_steps - 1):
 ```
 
 
-#### c. Quantum Simulation Detailed Analysis
+#### 6.2 Quantum Simulation Detailed Analysis
 
 - Quantum Dynamics Implementation:
 
@@ -284,13 +282,13 @@ for i in range(n_steps - 1):
 
   Quantum entanglement is a fundamental phenomenon in quantum mechanics, and the `entanglement_entropy` function quantifies this. By calculating the entanglement entropy of the system's density matrix, one can understand how active time potentially influences quantum correlations.
 
-#### d. Enhanced Driver Function
+#### 6.3 Enhanced Driver Function
 
 - Unified Simulation:
 
 The `run_unified_sim_advanced` function integrates both classical and quantum simulations, providing a comprehensive view of the ATH's implications. It also serves as the primary function for visualization, allowing users to visualize how $`\Phi(t)`$ and quantum entanglement evolve under the ATH.
 
-#### e. Initialization and Parameters
+#### 6.4 Initialization and Parameters
 
 - Quantum Initialization:
 
