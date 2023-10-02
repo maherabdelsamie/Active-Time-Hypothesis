@@ -336,7 +336,8 @@ In the **lower subplot**:
 
 The juxtaposition of these plots underscores the integrative nature of the simulation, bridging the classical and quantum realms. The dynamics captured here present a rich tapestry of phenomena, opening avenues for further exploration in understanding the interplay between stochastic classical dynamics and quantum entanglement.
 
-![Plot1](https://github.com/maherabdelsamie/Active-Time-Hypothesis/assets/73538221/737b0747-e136-4f43-a199-1826e7f22cad)
+![Plot1](https://github.com/maherabdelsamie/Active-Time-Hypothesis/assets/73538221/b4d63294-9670-463d-ba30-106139cf1c69)
+
 
 ---
 
