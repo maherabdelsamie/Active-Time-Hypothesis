@@ -1,4 +1,4 @@
-# Quantum Non-Locality Reimagined? Exploring Entanglement Through the Active Time Hypothesis
+# Reimagining Quantum Non-Locality: Simulating Entangled Systems with the Active Time Hypothesis
 
 Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
